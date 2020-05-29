@@ -39,6 +39,9 @@ Sources:
 i've watched many tutorials and read some articles and blogs to cluster this project work through. Thus, there can be some innocent plagiarism. 
 
 I'm proud that put the effort. (some basic webapp w/o deployment is still better than no participation)
-[i'll soon be filing up the dots left empty]
+[i'll soon be filing up the dots left empty]   
+
+ojo
+ V
 
 
