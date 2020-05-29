@@ -1,4 +1,4 @@
-# Nickmojo
+# Nickmojo : Rent O Phonebook
 This project is done as an assignment given by Rentomojo.
 In the project I was asked to build a Phonebook webapp in either node.js or PHP.
 I've chosed to complete this project with node.js along with express and angular while for the database i've tried hands with mongojs(mongodb).
